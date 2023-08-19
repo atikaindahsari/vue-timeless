@@ -25,5 +25,7 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Mockup
+![timeless](https://github.com/atikaindahsari/vue-timeless/assets/100137861/ea446ee2-adc6-4496-ad79-f327b093058d)
+
+
